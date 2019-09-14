@@ -1,0 +1,7 @@
+D:\Projects\LabProject01\LabProject01\LabProject01\bin\Debug\LabProject01.exe.config
+D:\Projects\LabProject01\LabProject01\LabProject01\bin\Debug\LabProject01.exe
+D:\Projects\LabProject01\LabProject01\LabProject01\bin\Debug\LabProject01.pdb
+D:\Projects\LabProject01\LabProject01\LabProject01\obj\Debug\LabProject01.csprojAssemblyReference.cache
+D:\Projects\LabProject01\LabProject01\LabProject01\obj\Debug\LabProject01.csproj.CoreCompileInputs.cache
+D:\Projects\LabProject01\LabProject01\LabProject01\obj\Debug\LabProject01.exe
+D:\Projects\LabProject01\LabProject01\LabProject01\obj\Debug\LabProject01.pdb
