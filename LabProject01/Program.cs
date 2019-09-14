@@ -6,7 +6,8 @@ namespace LabProject01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello, {0}", name);
             Console.Read();
         }
     }
